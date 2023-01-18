@@ -1,0 +1,48 @@
+
+myspritesheet.png
+size: 128, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Right/Right 1
+  rotate: false
+  xy: 58, 82
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+Right/Right 2
+  rotate: false
+  xy: 52, 2
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+Right/Right 3
+  rotate: false
+  xy: 58, 162
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+Right/Right 4
+  rotate: false
+  xy: 2, 2
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+Right/Right 5
+  rotate: false
+  xy: 2, 162
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+Right/Right 6
+  rotate: false
+  xy: 2, 82
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1

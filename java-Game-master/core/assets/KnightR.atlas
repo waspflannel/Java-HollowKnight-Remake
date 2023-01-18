@@ -1,0 +1,68 @@
+
+KnightR.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemySwing
+  rotate: false
+  xy: 1, 723
+  size: 964, 128
+  orig: 964, 128
+  offset: 0, 0
+  index: -1
+Swingother1
+  rotate: false
+  xy: 1, 593
+  size: 964, 128
+  orig: 964, 128
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 1, 516
+  size: 939, 75
+  orig: 939, 75
+  offset: 0, 0
+  index: -1
+bigrun
+  rotate: false
+  xy: 1, 424
+  size: 682, 90
+  orig: 682, 90
+  offset: 0, 0
+  index: -1
+bigrunother
+  rotate: false
+  xy: 1, 332
+  size: 682, 90
+  orig: 682, 90
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1, 251
+  size: 679, 79
+  orig: 679, 79
+  offset: 0, 0
+  index: -1
+bigded
+  rotate: false
+  xy: 1, 165
+  size: 578, 84
+  orig: 578, 84
+  offset: 0, 0
+  index: -1
+bigdedother
+  rotate: false
+  xy: 1, 79
+  size: 578, 84
+  orig: 578, 84
+  offset: 0, 0
+  index: -1
+swing
+  rotate: false
+  xy: 1, 1
+  size: 453, 76
+  orig: 453, 76
+  offset: 0, 0
+  index: -1
